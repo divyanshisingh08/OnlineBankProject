@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\onlinebankdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\onlinebankdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\modelbuilderextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\chequebookstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\chequebookstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\securityquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\securityquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\models\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\models\\accounttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|c:\\users\\divyanshi\\source\\repos\\onlinebankdb\\onlinebankdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{34FB17A4-7CFA-4CE0-9C63-A386A9412E7F}|OnlineBankDB\\OnlineBankDB.csproj|solutionrelative:onlinebankdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Transaction.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:45:41.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Login.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:43:27.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Customer.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:50:43.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModelBuilderExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\ModelBuilderExtension.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\ModelBuilderExtension.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\ModelBuilderExtension.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\ModelBuilderExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:59:58.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Status.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T11:05:29.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\Account.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Account.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\Account.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAUwBwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T13:48:19.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineBankDB",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\OnlineBankDB.csproj",
+              "RelativeDocumentMoniker": "OnlineBankDB\\OnlineBankDB.csproj",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\OnlineBankDB.csproj",
+              "RelativeToolTip": "OnlineBankDB\\OnlineBankDB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-20T07:04:04.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChequeBookStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\ChequeBookStatus.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\ChequeBookStatus.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\ChequeBookStatus.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\ChequeBookStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T11:15:29.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SecurityQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\SecurityQuestion.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\SecurityQuestion.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\SecurityQuestion.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\SecurityQuestion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T10:13:02.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoleType.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\RoleType.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\RoleType.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\RoleType.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\RoleType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T11:02:49.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\TransactionType.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\TransactionType.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\TransactionType.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\TransactionType.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBAAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T11:06:34.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:48:02.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Beneficiary.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Beneficiary.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\Beneficiary.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\Beneficiary.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\Beneficiary.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowDUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T11:15:10.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\AppDBContext.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\AppDBContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T14:15:31.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountType.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\AccountType.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Models\\AccountType.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Models\\AccountType.cs",
+              "RelativeToolTip": "OnlineBankDB\\Models\\AccountType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T11:09:27.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OnlineBankDB\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T04:39:22.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineBankDB\\Program.cs",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\Program.cs",
+              "RelativeToolTip": "OnlineBankDB\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T12:49:35.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineBankDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\Divyanshi\\source\\repos\\OnlineBankDB\\OnlineBankDB\\appsettings.json",
+              "RelativeToolTip": "OnlineBankDB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-18T13:00:01.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
